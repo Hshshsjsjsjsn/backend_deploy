@@ -1,0 +1,82 @@
+{
+  "usuarios": [
+    {
+      "id": 1764792023431,
+      "email": "contatogbrwzzgames@gmail.com",
+      "password": "$2b$10$qHu8Cj1gtThkuPBNp6tz1etrI87S87if0MDIKPz7sRMCAWIt8tBjC",
+      "created_at": "2025-12-03T20:00:23.431Z"
+    }
+  ],
+  "chats": [
+    {
+      "id": 1764792035843,
+      "user_id": 1764792023431,
+      "title": "Novo chat",
+      "created_at": "2025-12-03T20:00:35.843Z"
+    },
+    {
+      "id": 1764792309874,
+      "user_id": 1764792023431,
+      "title": "Novo chat",
+      "created_at": "2025-12-03T20:05:09.874Z"
+    }
+  ],
+  "mensagens": [
+    {
+      "id": 1764792039529,
+      "chat_id": 1764792035843,
+      "role": "user",
+      "content": "Opa",
+      "created_at": "2025-12-03T20:00:39.528Z"
+    },
+    {
+      "id": 1764792041096,
+      "chat_id": 1764792035843,
+      "role": "assistant",
+      "content": "Olá! Como posso ajudar você hoje?",
+      "created_at": "2025-12-03T20:00:41.094Z"
+    },
+    {
+      "id": 1764792054071,
+      "chat_id": 1764792035843,
+      "role": "user",
+      "content": "Como faz vitamina de banana",
+      "created_at": "2025-12-03T20:00:54.070Z"
+    },
+    {
+      "id": 1764792060278,
+      "chat_id": 1764792035843,
+      "role": "assistant",
+      "content": "Fazer uma vitamina de banana é bem simples! Aqui está uma receita básica:\n\n### Ingredientes:\n- 1 banana madura\n- 200 ml de leite (pode ser leite integral, desnatado ou até mesmo leite vegetal)\n- 1 colher de sopa de açúcar ou mel (opcional)\n- Canela em pó a gosto (opcional)\n- Gelo (opcional)\n\n### Instruções:\n1. **Preparar os ingredientes**: Descasque a banana e corte-a em rodelas.\n2. **Bater no liquidificador**: Coloque a banana cortada, o leite e o açúcar ou mel (se estiver usando) no liquidificador.\n3. **Misturar**: Bata tudo até obter uma mistura homogênea.\n4. **Ajustes**: Se desejar, adicione gelo e bata de novo se quiser a vitamina mais refrescante.\n5. **Servir**: Despeje em um copo e polvilhe canela por cima, se gostar.\n\nPronto! Agora é só apreciar sua vitamina de banana. Aproveite!",
+      "created_at": "2025-12-03T20:01:00.276Z"
+    },
+    {
+      "id": 1764792360732,
+      "chat_id": 1764792309874,
+      "role": "user",
+      "content": "Opa",
+      "created_at": "2025-12-03T20:06:00.731Z"
+    },
+    {
+      "id": 1764792362548,
+      "chat_id": 1764792309874,
+      "role": "assistant",
+      "content": "Olá! Como posso ajudar você hoje?",
+      "created_at": "2025-12-03T20:06:02.546Z"
+    },
+    {
+      "id": 1764820243288,
+      "chat_id": 1764792309874,
+      "role": "user",
+      "content": "quanto é 28x28?",
+      "created_at": "2025-12-04T03:50:43.287Z"
+    },
+    {
+      "id": 1764820244800,
+      "chat_id": 1764792309874,
+      "role": "assistant",
+      "content": "28 x 28 é igual a 784. Posso ajudar com mais alguma coisa?",
+      "created_at": "2025-12-04T03:50:44.798Z"
+    }
+  ]
+}
